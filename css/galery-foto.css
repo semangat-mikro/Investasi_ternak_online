@@ -1,0 +1,40 @@
+.clearboth{clear:both;}
+		.thumb
+		{
+			float:left;
+			-moz-border-radius:10px;
+			-webkit-border-radius:10px;
+			margin:0px 15px 15px 0px;
+			padding:3px;
+			width: 150px;
+			border:solid;
+			background-color:#FFFFFF;
+		}
+		.thumb:hover
+		{
+			background-color:#FFFFFF;		
+			float:left;
+			width:150px;
+			-moz-border-radius:10px;
+			-webkit-border-radius:10px;
+			margin:0px 15px 15px 0px;
+			border:solid;
+			-moz-transform:scale(1.3);
+			-webkit-transform:scale(1.3);
+		}
+
+		p
+		{
+			text-shadow:#00FFFF;
+			text-align: center;
+		}
+		.wrap
+		{
+			-moz-box-shadow: 5px 5px 10px cyan;
+			-webkit-box-shadow: 5px 5px 10px cyan;
+			-moz-border-radius:15px;
+			-webkit-border-radius:15px;
+		}
+		#poto .thumb{
+			margin-left:35px;
+		}
